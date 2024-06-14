@@ -1,0 +1,32 @@
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe.config
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.pdb
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.dll
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.xml
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.AssemblyReference.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Properties.Resources.resources
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.GenerateResource.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.CoreCompileInputs.cache
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitel.5E3E11BE.Up2Date
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.exe
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.pdb
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Migrations.Migration.resources
+C:\Users\bobyt\source\repos\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.HranitelenMagazin.resources
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe.config
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.exe
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\Hranitelen_Magazin.pdb
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.HranitelenMagazin.resources
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Migrations.Migration.resources
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.Properties.Resources.resources
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitel.5E3E11BE.Up2Date
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.exe
+C:\Users\STUDENTS-1212-5\Desktop\Нова папка (2)\Hranitelen_magazin-main\Hranitelen_Magazin\Hranitelen_Magazin\obj\Debug\Hranitelen_Magazin.pdb
